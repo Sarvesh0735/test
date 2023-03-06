@@ -1,0 +1,11 @@
+c# coding check process
+
+class Car
+{
+
+public static void main(String args[])
+{
+  Car Safari=new Car();
+  
+}
+}

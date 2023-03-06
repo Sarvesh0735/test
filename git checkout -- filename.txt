@@ -1,0 +1,6 @@
+git checkout -- filename 
+git log
+git revert 
+:q
+git revert -n  id // commit need after make this undo process
+git reset --hard commitID
