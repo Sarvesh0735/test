@@ -2,10 +2,16 @@ c# coding check process
 
 class Car
 {
+
 public static wheels()
 {
 
 }
+
+public static speedcheck()
+{
+ } 
+
 public static void main(String args[])
 {
   Car Safari=new Car();
